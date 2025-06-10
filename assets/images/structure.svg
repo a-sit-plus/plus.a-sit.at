@@ -7,7 +7,7 @@
    viewBox="0 0 162.45416 76.368225"
    version="1.1"
    id="svg5"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="structure.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,14 +26,14 @@
      showgrid="false"
      units="px"
      width="793.70081px"
-     inkscape:zoom="9.8525491"
-     inkscape:cx="311.03626"
-     inkscape:cy="29.383259"
-     inkscape:window-width="1968"
-     inkscape:window-height="1124"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:zoom="3.3061094"
+     inkscape:cx="443.4215"
+     inkscape:cy="66.694708"
+     inkscape:window-width="3840"
+     inkscape:window-height="2085"
+     inkscape:window-x="1920"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -378,21 +378,30 @@
        d="m 53.677887,100.8648 c 0,1.32292 1.322916,2.64584 2.645833,2.64584 h 13.493755 c 1.32291,0 1.32291,1.32291 1.32291,2.64583 0,-1.32292 0,-2.64583 1.32291,-2.64583 h 13.493741 c 1.32292,0 2.64584,-1.32292 2.64584,-2.64584"
        id="path3"
        sodipodi:nodetypes="ccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-weight:430;font-size:8.46667px;line-height:1.5;font-family:Roboto;-inkscape-font-specification:'Roboto weight=430';text-align:center;letter-spacing:-0.100542px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#005b79;fill-opacity:1;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:64.6;stroke-dashoffset:17.4001;stroke-opacity:0.878431"
-       x="127.98072"
-       y="46.132755"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-size:8.46667px;fill:#005b79;fill-opacity:1;stroke-width:0.79375"
-         x="127.93045"
-         y="46.132755">A-SIT</tspan></text>
+    <g
+       aria-label="A-SIT"
+       id="text1"
+       style="font-size:8.46667px;line-height:1.5;font-family:Roboto;-inkscape-font-specification:'Roboto weight=430';text-align:center;letter-spacing:-0.100542px;word-spacing:0px;text-anchor:middle;display:inline;fill:#005b79;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:64.6;stroke-dashoffset:17.4001;stroke-opacity:0.878431">
+      <path
+         d="m 122.61497,46.132755 -0.72814,-1.871134 h -2.39607 l -0.71966,1.871134 h -0.77047 l 2.3622,-6.070602 h 0.6858 l 2.35374,6.070602 z m -1.63407,-4.377268 q -0.0254,-0.06773 -0.0847,-0.245534 -0.0593,-0.1778 -0.11853,-0.364066 -0.0508,-0.194734 -0.0847,-0.296334 -0.0593,0.262467 -0.13546,0.516467 -0.0762,0.245533 -0.127,0.389467 l -0.68581,1.828801 h 1.91347 z"
+         id="path342" />
+      <path
+         d="m 123.64896,44.193888 v -0.6604 h 2.04893 v 0.6604 z"
+         id="path344" />
+      <path
+         d="m 130.18629,44.515621 q 0,0.804334 -0.5842,1.253067 -0.5842,0.448734 -1.5748,0.448734 -0.508,0 -0.9398,-0.0762 -0.4318,-0.0762 -0.71967,-0.211667 v -0.728133 q 0.3048,0.135466 0.75353,0.245533 0.4572,0.110067 0.9398,0.110067 0.67734,0 1.016,-0.262467 0.34714,-0.262467 0.34714,-0.7112 0,-0.296334 -0.127,-0.499534 -0.127,-0.2032 -0.44027,-0.372533 -0.3048,-0.1778 -0.85513,-0.372534 -0.77047,-0.2794 -1.1684,-0.6858 -0.38947,-0.4064 -0.38947,-1.109134 0,-0.4826 0.24553,-0.821267 0.24554,-0.347133 0.67734,-0.5334 0.44026,-0.186267 1.00753,-0.186267 0.49953,0 0.9144,0.09313 0.41487,0.09313 0.75354,0.245533 l -0.23707,0.651934 q -0.31327,-0.135467 -0.6858,-0.228601 -0.36407,-0.09313 -0.762,-0.09313 -0.56727,0 -0.85514,0.245534 -0.28786,0.237066 -0.28786,0.635 0,0.3048 0.127,0.508 0.127,0.2032 0.41486,0.364067 0.28787,0.160867 0.77894,0.347133 0.5334,0.194734 0.89747,0.423334 0.37253,0.220133 0.5588,0.5334 0.19473,0.313267 0.19473,0.787401 z"
+         id="path346" />
+      <path
+         d="m 133.00675,46.132755 h -2.1844 v -0.440267 l 0.7112,-0.160866 v -4.834469 l -0.7112,-0.169333 v -0.440267 h 2.1844 v 0.440267 l -0.7112,0.169333 v 4.834469 l 0.7112,0.160866 z"
+         id="path348" />
+      <path
+         d="m 135.98808,46.132755 h -0.762 V 40.75642 h -1.88807 v -0.668867 h 4.52967 v 0.668867 h -1.8796 z"
+         id="path350" />
+    </g>
   </g>
   <style
      id="style902">.highlightable:hover .background { fill:#f8e1dd; }
-     #layer1:hover > *:not(:hover) { filter: grayscale(1); }
+     #layer1:hover &gt; *:not(:hover) { filter: grayscale(1); }
 .st0 { fill:#005c7a }
 .st1 { fill:#cd492e }
 </style>
